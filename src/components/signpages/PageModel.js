@@ -1,4 +1,4 @@
-import logo from "../../images/MyWallet.png"
+import logo from "../../images/MyWallet.png";
 import styled from "styled-components";
 
 export default function PageModel(props) {
