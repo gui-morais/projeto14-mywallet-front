@@ -1,9 +1,9 @@
-import PageModel from "./PageModel";
+import SignPageModel from "./SignPageModel";
 
 
 export default function SignUp() {
     return(
-        <PageModel>
+        <SignPageModel>
             <form>
                 <input type="name" placeholder="Nome" required />
                 <input type="email" placeholder="E-mail" required />
@@ -12,6 +12,6 @@ export default function SignUp() {
                 <button>Cadastrar</button>
             </form>
             <p>Já tem uma conta? Entre agora!</p>
-        </PageModel>
+        </SignPageModel>
     )
 }
