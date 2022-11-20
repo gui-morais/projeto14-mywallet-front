@@ -29,6 +29,7 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 	background-color: #925ABE;
+	font-family: 'Raleway', sans-serif;
 }
 ol, ul {
 	list-style: none;
